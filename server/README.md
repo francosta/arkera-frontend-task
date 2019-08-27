@@ -1,1 +1,0 @@
-# arkera-code-challenge
